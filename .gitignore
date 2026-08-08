@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/*
+data/processed/*
+
+# Keep empty folders available in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# Power BI temporary files
+*.pbit.tmp

@@ -1,0 +1,8 @@
+rule,failure_count,total_rows,failure_percentage
+unique_key_missing,0,348180,0.0
+created_date_missing,0,348180,0.0
+agency_missing,0,348180,0.0
+complaint_type_missing,0,348180,0.0
+invalid_date_sequence,97,348180,0.03
+missing_borough,0,348180,0.0
+invalid_or_missing_coordinates,3105,348180,0.89
